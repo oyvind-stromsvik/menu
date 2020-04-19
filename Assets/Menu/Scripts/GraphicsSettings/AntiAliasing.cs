@@ -1,4 +1,4 @@
-using UnityEngine.Rendering.PostProcessing;
+using UnityEngine.PostProcessing;
 
 namespace TwiiksMenu {
     public class AntiAliasing : SliderBase {
